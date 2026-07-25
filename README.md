@@ -1,5 +1,7 @@
 # Press On by Saylie
 
+**Live site:** [https://press-on-by-saylie.vercel.app](https://press-on-by-saylie.vercel.app)
+
 Website for Press On by Saylie, a custom press-on nails business, built with Vite and vanilla JavaScript.
 
 ## Features
