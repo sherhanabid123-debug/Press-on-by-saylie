@@ -3,3 +3,11 @@ dist
 .DS_Store
 *.log
 .npm
+
+# Local tooling config
+.gemini/
+.claude/
+.agent/
+.agents/
+CLAUDE.md
+AGENTS.md

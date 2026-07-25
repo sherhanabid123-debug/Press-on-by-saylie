@@ -1,8 +1,14 @@
 {
   "name": "presson-by-saylie",
+  "description": "Website for Press On by Saylie, a custom press-on nails business.",
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "author": "Sherhan Abid",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sherhanabid123-debug/Press-on-by-saylie"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
